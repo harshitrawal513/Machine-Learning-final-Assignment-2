@@ -4,7 +4,7 @@ Machine Learning, Assignment 2
 
 - **Name:** Harshid Bhupendra Rawal
 - **Roll number:** M26ECM504
-- **Final code:** git tag `final-code` (the commit hash is on page 1 of the report)
+
 
 ## What this project is about
 
